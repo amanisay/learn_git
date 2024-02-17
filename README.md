@@ -17,3 +17,11 @@ https://github.com/amanisay/learn_git/assets/153926739/baece0cf-a1c3-4dc2-a7a5-e
  5
 
  https://github.com/amanisay/learn_git/assets/153926739/56166a00-7035-47fc-a53f-84d93c8d0043
+
+6
+
+https://github.com/amanisay/learn_git/assets/153926739/b77bb31e-d4c9-41c0-8bcb-d036385445a9
+
+8
+
+https://github.com/amanisay/learn_git/assets/153926739/cd8bae06-a378-4073-bedf-62d5de557954
